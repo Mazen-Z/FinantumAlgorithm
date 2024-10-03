@@ -1,6 +1,6 @@
 # VQE Portfolio Optimization Algorithm
 
-This repository contains a quantum algorithm based on the Variational Quantum Eigensolver (VQE) for optimizing a stock portfolio. The algorithm leverages quantum computing resources via AWS Braket and is implemented in a Qiskit-powered qBraid notebook environment.
+A quantum algorithm based on the Variational Quantum Eigensolver (VQE) for optimizing a stock portfolio. The algorithm can be customized to leverage quantum computing such as AWS Braket, Nvidia CUDA-Q, IonQ, Rigetti Quil, IBM Q, etc. and is implemented in a Qiskit powered, qBraid notebook environment.
 
 ## Table of Contents
 - [Introduction](#introduction)
