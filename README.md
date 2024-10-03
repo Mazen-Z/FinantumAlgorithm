@@ -7,13 +7,9 @@ This repository contains a quantum algorithm based on the Variational Quantum Ei
 - [Algorithm Overview](#algorithm-overview)
 - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Installing Dependencies](#installing-dependencies)
-- [Running the Algorithm](#running-the-algorithm)
 - [Outputs](#outputs)
   - [Portfolio Selection](#portfolio-selection)
-  - [Budget Allocation](#budget-allocation)
 - [Customization](#customization)
-- [References](#references)
 
 ---
 
@@ -101,4 +97,15 @@ MS: 10.07% of budget, $10073.47
 DIS: 9.74% of budget, $9742.66
 WFC: 4.30% of budget, $4297.96
 
-...
+```
+## Customization
+
+The user is able to:
+1. select the investment budget for the portfolio 
+2. select what stock csv files to load
+3. select the asset names
+4. select the threshold of risk
+5. selet the number of iterations to run when creating a suggested investment portfolio
+
+
+
